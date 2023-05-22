@@ -1,0 +1,15 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&family=Poppins:wght@200;400&family=Quicksand:wght@500;700&family=Rubik:wght@300;400;500&display=swap');
+
+.label-filter{
+   font-family: 'Rubik', sans-serif;
+    color: #3C3C3C;
+}
+
+.customize-select{
+    border-radius: 4px;
+    height: 40px;
+    border-color: #3C3C3C;
+    border-width: 1;
+}

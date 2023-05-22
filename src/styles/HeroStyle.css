@@ -1,0 +1,33 @@
+
+--bs-btn-bg{ background-color: #5CB85F}
+.hero{
+    background-color: #F1F3FF;
+}
+.jumbotroonTitle {
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+}
+
+.jumbotroonDesc {
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.jumbotroonImage {
+    width: auto;
+    height: auto;
+}
+
+@media screen and (max-width: 1496px) {
+    .jumbotroonImage {
+        width: 100%;
+    }
+}
+
+

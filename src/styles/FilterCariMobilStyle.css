@@ -1,0 +1,37 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&family=Poppins:wght@200;400&family=Quicksand:wght@500;700&family=Rubik:wght@300;400;500&display=swap');
+
+.label-filter{
+   font-family: 'Rubik', sans-serif;
+    color: #3C3C3C;
+}
+.custom-selected {
+    position: relative;
+    display: inline-block;
+  }
+
+  .custom-arrow-status-edit{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    width: 16px;
+    height: 16px;
+    background-image: url('../assets/fi_check-circle.svg'); /* Ganti URL dengan URL gambar ikon yang diinginkan */
+    background-size: cover;
+    pointer-events: none;
+  }
+  
+  .custom-selected {
+    
+    appearance: none;
+    border-width:1px;
+    border-color: #8A8A8A;
+    background-color: #ffffff;
+    border-radius: 4px;
+    width: 100%;
+    
+  }
+  
+ 

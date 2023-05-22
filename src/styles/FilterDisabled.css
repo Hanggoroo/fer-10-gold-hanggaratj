@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&family=Poppins:wght@200;400&family=Quicksand:wght@500;700&family=Rubik:wght@300;400;500&display=swap');
+
+.label-disabled{
+   font-family: 'Rubik', sans-serif;
+    color: #8A8A8A;
+}
+.custom-select {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .custom-arrow-kategori {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    width: 16px;
+    height: 16px;
+    background-image: url('../assets/fi_calendar.svg'); /* Ganti URL dengan URL gambar ikon yang diinginkan */
+    background-size: cover;
+    pointer-events: none;
+  }
+  .custom-arrow-status {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    width: 16px;
+    height: 16px;
+    background-image: url('../assets/fi_users.svg'); /* Ganti URL dengan URL gambar ikon yang diinginkan */
+    background-size: cover;
+    pointer-events: none;
+  }
+  .custom-arrow-price{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    width: 16px;
+    height: 16px;
+    background-image: url('../assets/fi_clock.svg'); /* Ganti URL dengan URL gambar ikon yang diinginkan */
+    background-size: cover;
+    pointer-events: none;
+  }
+  
+  .custom-select {
+    
+    appearance: none;
+    border: none;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+  }
+  
+ 

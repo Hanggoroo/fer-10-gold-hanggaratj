@@ -1,0 +1,35 @@
+.testimoniTitle {
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.testimoniDesc {
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.testimoniContent {
+    display: flex;
+    flex-direction: column;
+}
+
+.button-selected {
+    
+    appearance: none;
+    border: none;
+    background-color: #ffff;   
+  }
+.button-left{
+    
+    width: 100%;
+}
+.button-right{
+    width: 100%;
+}
+  

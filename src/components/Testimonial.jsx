@@ -15,9 +15,8 @@ const Testimoni = () => {
            {/* Title */}
           <div className="text-center">
             <h1>Testimonial</h1>
-            <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit
-              doloremque iure ullam.
+            <p style={{fontWeight: "bold"}}>
+            Berbagai review positif dari para pelanggan kami
             </p>
           </div>
            {/* Akhir Title */}
@@ -51,11 +50,7 @@ const Testimoni = () => {
                         </div>
                         <div className="my-2">
                           <p className="fw-bold">
-                            "Lorem ipsum dolor sit amet consectetur adipisicing
-                            elit. Dolorum, cumque neque? Aperiam nihil delectus,
-                            et magnam laboriosam molestias a vero commodi
-                            distinctio reiciendis fugiat saepe. Iste ullam vero
-                            quo labore!"
+                          “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod”
                           </p>
                         </div>
                         <div>
@@ -90,11 +85,7 @@ const Testimoni = () => {
                         </div>
                         <div className="my-2">
                           <p className="fw-bold">
-                            "Lorem ipsum dolor sit amet consectetur adipisicing
-                            elit. Dolorum, cumque neque? Aperiam nihil delectus,
-                            et magnam laboriosam molestias a vero commodi
-                            distinctio reiciendis fugiat saepe. Iste ullam vero
-                            quo labore!"
+                          “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod”
                           </p>
                         </div>
 
@@ -132,11 +123,7 @@ const Testimoni = () => {
                         </div>
                         <div className="my-2">
                           <p className="fw-bold">
-                            "Lorem ipsum dolor sit amet consectetur adipisicing
-                            elit. Dolorum, cumque neque? Aperiam nihil delectus,
-                            et magnam laboriosam molestias a vero commodi
-                            distinctio reiciendis fugiat saepe. Iste ullam vero
-                            quo labore!"
+                          “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod”
                           </p>
                         </div>
                         <div>

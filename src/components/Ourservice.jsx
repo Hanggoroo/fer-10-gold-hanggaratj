@@ -10,13 +10,13 @@ const OurServices = () => {
                 <br />
                 <div className="container mt-5">
                     <div className="row justify-content-center">
-                        {/* image */}
+                        {/* Image */}
                         <div className="col-xl-6 col-lg-12 col-md-12 col-sm-12 col-12 justify-content-center">
                             <img className="ourServicesImage" src={img_service} />
                         </div>
-                        {/* akhir image */}
+                        {/* Akhir Image */}
 
-                        {/* content */}
+                        {/* Content */}
                         <div className="col-xl-6 col-lg-12 col-md-12 col-sm-12 col-12 justify-content-center">
                             <div className="row mb-3 mt-5">
                                 <div className="col">
@@ -43,7 +43,7 @@ const OurServices = () => {
                                 </div>
                             </div>
                         </div>
-                        {/* akhir content */}
+                        {/* Akhir Content */}
                     </div>
                 </div>
             </div>
